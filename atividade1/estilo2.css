@@ -1,0 +1,39 @@
+
+h1{
+    text-align: right;
+}
+span{
+    font-family: cursive;
+}
+div{
+  display: flex;
+  justify-content: center;
+}
+table,tr,th,td{
+    border: 2px solid black;
+}
+.data{
+    font-weight: bold;
+}
+td:nth-child(1){
+    font-family: cursive;
+    color: white;
+}
+#cor1{
+    background-color: blue;
+}
+#cor2{
+    background-color: red;
+}
+#cor3{
+    background-color: yellow;
+}
+#cor4{
+    background-color: green;
+}
+#cor5{
+    background-color: purple;
+}
+#cor6{
+    background-color: orange;
+}

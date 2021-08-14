@@ -1,0 +1,36 @@
+*{
+    margin: 0;  
+}
+#div1{
+height: 25vh;
+border: green 10px solid;
+background-color: red;
+}
+#div2{
+height: 25vh;
+}
+#div3{
+height: 25vh;
+background-color: #ab83ff;   
+}
+#div4{
+    border: #a1281d 10px solid;
+height: 25vh;
+background-color: #fda601;
+}
+p,ul{
+padding-top: 40px;
+}
+#paragrafo3{
+    font-size: 50px;
+}
+#link1{
+    color: #5b8c5f;
+}
+#link2{
+    color: #472d77;
+}
+#link3{
+    color: #ebd2b4;
+}
+
